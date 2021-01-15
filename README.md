@@ -21,6 +21,6 @@ Semantic HTML/HTML5; CSS/CSS3; BEM; JavaScript, Jest.
 
 ### Unit & Component testing:
 
-![Coverage](/public/testing.jpg)
+![Coverage](/src/public/testing.jpg)
 
 Javier
